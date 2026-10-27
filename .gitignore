@@ -1,0 +1,15 @@
+# Datos (crudos y procesados) y salidas
+datos/
+figuras/
+*.docx
+*.xlsx
+*.csv
+
+# Temporales
+.~*
+~$*
+__pycache__/
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
